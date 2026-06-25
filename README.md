@@ -18,7 +18,7 @@ Array pada JavaScript adalah struktur data yang digunakan untuk menyimpan sekump
 
 ### 📌 Method Pada Array
 
-- **1. Menambah & Menghapus Elemen** 📎
+- **Menambah & Menghapus Elemen** 📎
     ```
    	- push() → menambah elemen di akhir array.
    	- pop() → menghapus elemen terakhir.
@@ -28,7 +28,7 @@ Array pada JavaScript adalah struktur data yang digunakan untuk menyimpan sekump
    	- slice() → menyalin sebagian array (tidak mengubah array asli).
     ```
 
-- **2. Mencari & Mengecek Elemen** 📎
+- **Mencari & Mengecek Elemen** 📎
     ```
    	- indexOf() → mencari indeks pertama dari elemen tertentu.
    	- lastIndexOf() → mencari indeks terakhir dari elemen tertentu.
@@ -39,7 +39,7 @@ Array pada JavaScript adalah struktur data yang digunakan untuk menyimpan sekump
    	- some → mengecek apakah ada satu elemen benar bernilai true dan false jika semua elemen salah.
     ```
     
-- **3. Transformasi & Iterasi** 📎
+- **Transformasi & Iterasi** 📎
     ```
    	- map() → membuat array baru dengan hasil transformasi tiap elemen.
    	- forEach() → menjalankan fungsi untuk setiap elemen (tidak menghasilkan array baru).
@@ -49,7 +49,7 @@ Array pada JavaScript adalah struktur data yang digunakan untuk menyimpan sekump
    	- reverse() → membalik urutan elemen.
     ```
     
-- **4. Utility & Lainnya** 📎
+- **Utility & Lainnya** 📎
     ```
    	- concat() → menggabungkan dua atau lebih array.
    	- join() → menggabungkan elemen menjadi string dengan separator tertentu.
