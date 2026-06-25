@@ -7,7 +7,7 @@ Array pada JavaScript adalah struktur data yang digunakan untuk menyimpan sekump
 
 - **Karakteristik Array:** 📎
 ```
-  - Kumpulan data: Bisa berisi banyak nilai sekaligus.
+ 	- Kumpulan data: Bisa berisi banyak nilai sekaligus.
  	- Indeks: Elemen pertama berada di indeks 0, elemen kedua di 1, dan seterusnya.
  	- Dinamis: Ukuran array bisa bertambah atau berkurang sesuai kebutuhan.
  	- Heterogen: Bisa menyimpan berbagai tipe data (string, number, object, bahkan array lain).
@@ -51,7 +51,7 @@ Array pada JavaScript adalah struktur data yang digunakan untuk menyimpan sekump
     
 - **4. Utility & Lainnya** 📎
     ```
-    - concat() → menggabungkan dua atau lebih array.
+   	- concat() → menggabungkan dua atau lebih array.
    	- join() → menggabungkan elemen menjadi string dengan separator tertentu.
    	- flat() → meratakan array bersarang (nested array).
    	- isArray() → mengecek apakah suatu variabel adalah array.
